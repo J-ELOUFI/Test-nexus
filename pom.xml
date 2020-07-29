@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.10.84/:8082/#browse/browse/assets:Test-job-Jenkins</url>
+            <url>http://192.168.10.84/:8082/#browse/browse/assets:Test-job-Jenkins-Snap</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
