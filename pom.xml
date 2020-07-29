@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.10.84/:8082/#browse/browse/assets:Test-job-Jenkins-rel/</url>
+            <url>http://192.168.10.84/:8082/#browse/browse/assets:Test-job-Jenkins-Rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
